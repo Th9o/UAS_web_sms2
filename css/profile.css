@@ -1,0 +1,13 @@
+
+
+  
+  .kontak {
+    background: url("../img/kontak.jpg") no-repeat
+      center center;
+    background-size: cover;
+    padding-bottom: 20%;
+    padding-top: 20%;
+    margin-top: 20px;
+    color: #fff;
+  }
+  
